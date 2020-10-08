@@ -1,0 +1,166 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Bookman Old Style;
+}
+.container
+{
+	width:100%;
+}
+.wrapper
+{
+	width:1080px;
+	margin:auto;
+}
+.nav-cap
+{
+	color: white;
+	padding: 18px;
+	float: left;
+}
+
+.nav
+{
+	height: 80px;
+	width: 1080px;
+	border: 2px solid white;
+	margin: auto;
+	border-radius: 20px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 18px;
+    overflow: hidden;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ #opt
+ {
+ 	width: 400px;
+ 	height: 30px;
+ 	color: white;
+ 	border-radius: 10px;
+ 	background-color: #ffa500;
+ 	border:2px solid white;
+ 	font-size: 15px;
+ 	margin-left: 360px;
+
+
+ }
+ .sub
+ {
+ 	margin-left: 500px;
+ 	color: white;
+ 	font-size: 20px;
+ }
+ .heading
+{
+    
+    color: white;
+    font-size: 20px;
+}
+.login
+{
+    margin-top: 50px;
+    width: 400px;
+    height: 350px;
+    float: right;
+    border-radius: 10px;
+    border:2px solid white;
+    padding: 20px;
+
+}
+.reg
+{
+   margin-top: 50px;
+    width: 400px;
+    border-radius: 10px;
+    border:2px solid white;
+    padding: 20px; 
+    margin-left: 340px;
+
+}
+input[type=text], input[type=password]{
+    width: 340px;
+    padding: 4px 10px;
+    margin: 4px 0;
+    display: inline-block;
+    border: 1px solid white;
+    box-sizing: border-box;
+}
+.button
+{
+    color:white;
+     width: 340px;
+    padding: 4px 10px;
+    margin: 4px 0;
+    display: inline-block;
+    border: 1px solid white;
+    box-sizing: border-box;
+    text-decoration: none;
+    padding: 5px;
+    background-color: green;
+}
+.instructions
+{
+    margin-top: 5px;
+    width: 400px;
+    margin-left: 340px;
+}
+.itable
+{
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    border:2px solid white;
+}
+.styled-select {
+   background: url(http://i62.tinypic.com/15xvbd5.png) no-repeat 96% 0;
+   height: 29px;
+   overflow: hidden;
+   width: 240px;
+   background-color: orange;
+   border-radius: 5px;
+   color: white;
+   border:2px solid white;
+   margin-left: 430px;
+}
+.result
+{
+    margin-left: 310px;
+    width:500px;
+    border:2px solid orange;
+    border-radius: 15px;
+    margin-top: 50px;
+
+}
+#Slider
+{
+    margin-top: 50px;
+    padding: 
+}
+
+#Slider img
+{
+    width: 580px;
+    height: 350px;
+    border-radius: 20px;
+   
+    padding: 4px;
+    background-color: white;
+}
+
+
+

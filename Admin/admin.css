@@ -1,0 +1,61 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Bookman Old Style;
+}
+.container
+{
+	width:100%;
+}
+.wrapper
+{
+	width:1080px;
+	margin:auto;
+}
+.nav
+{
+	height: 80px;
+	width: 1080px;
+	border: 2px solid white;
+	margin: auto;
+	border-radius: 20px;
+	text-align: center;
+}
+ul
+{
+  margin-left: 40px;
+}
+ul li {
+  margin-left: 5px;
+  margin-top: 2px;
+    width:150px;
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    position: relative;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+ul li a {
+        color: white;
+        text-decoration: none;
+        font-family: Century Gothic;
+        
+        
+    }
+
+
+    .styled-select {
+   background: url(http://i62.tinypic.com/15xvbd5.png) no-repeat 96% 0;
+   height: 29px;
+   overflow: hidden;
+   width: 240px;
+   background-color: orange;
+   border-radius: 5px;
+   color: white;
+   border:2px solid white;
+}
+
+
